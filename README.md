@@ -5,7 +5,7 @@
 **Môn học:** Lập trình mạng căn bản <br>
 **Mã môn học:** NT106.Q14 <br>
 **Nhóm:** 13 <br>
-**Bài tập:** Exercise2.2
+**Bài tập:** Exercise3
 
 ---
 
