@@ -140,6 +140,9 @@ Sau khi đăng nhập, bạn sẽ thấy **màn hình chính (Dashboard)**:
 > 💡 Khi nhấn **Start Server**, ứng dụng sẽ tạo socket TCP và bắt đầu lắng nghe các kết nối.  
 > Tất cả client đăng nhập sẽ được ghi nhận trong danh sách.
 
+<p align="center">
+  <img src="NT106_BT2/Resources/Server.png" alt="Dashboard UI" width="600px"/>
+</p>
 
 ---
 
