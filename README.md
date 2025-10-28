@@ -147,7 +147,17 @@ Sau khi đăng nhập, bạn sẽ thấy **màn hình chính (Dashboard)**:
 ---
 
 ## 📸 Demo
-> *Sẽ được cập nhật trong tương lai...*  
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BJX_B_weso4" target="_blank">
+    <img src="https://img.youtube.com/vi/BJX_B_weso4/0.jpg" 
+         alt="CourseManager Demo Video"
+         width="700" 
+         style="border:2px solid black; border-radius:8px;">
+  </a>
+</p>
+
+> 🎬 *Click vào hình để xem video demo trên YouTube.  
+ 
 ---
 ✨ *Made by Group13_NT106.Q14 | NT106 - BT3*
